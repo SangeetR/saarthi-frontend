@@ -1,0 +1,17 @@
+1. #0a0039
+2. #002f6b
+3. #005a94
+4. #0086b0
+5. #00b3bc
+6. #00e0bd
+
+
+1. #0a0039
+2. #3a2e69
+3. #f7ebff
+4. #00c8a0
+
+background-color: #e5e5f7;
+opacity: 0.8;
+background-image:  linear-gradient(#00c8a0 1px, transparent 1px), linear-gradient(to right, #00c8a0 1px, #e5e5f7 1px);
+background-size: 20px 20px; 
