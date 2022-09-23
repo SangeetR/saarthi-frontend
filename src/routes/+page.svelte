@@ -6,11 +6,10 @@
     console.log(data)
 </script>
 
-<section class="bg-[#00538e]">
+<section class="bg-neutral-400">
     
-    <div class="medical">
+    <div class="medical h-screen">
         <h2 class="banner">Our Medical Team</h2>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore repellendus, nesciunt velit veniam exercitationem dolores laudantium aperiam nobis maiores a deserunt minus porro eaque ex! At est dolores laboriosam dolor.
         <Cards {data} />
     </div>
     
@@ -29,7 +28,7 @@
 
 <style>
     .banner {
-        @apply w-auto bg-secondary text-neutral-50 font-comforta p-3;
+        @apply w-auto bg-sarthi-1 text-neutral-50 font-comforta p-3;
     }
 
 </style>

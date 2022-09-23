@@ -3,7 +3,7 @@
 </script>
 
 
-<div class="bg-primary text-neutral-50 px-7 py-3 font-comforta">
+<div class="bg-sarthi-2 text-neutral-50 px-7 py-3 font-comforta">
     <div class="head flex justify-between">
         {#if account}
         <h1 class="text-6xl mt-10 ml-10">Saarthi</h1>

@@ -15,3 +15,26 @@ background-color: #e5e5f7;
 opacity: 0.8;
 background-image:  linear-gradient(#00c8a0 1px, transparent 1px), linear-gradient(to right, #00c8a0 1px, #e5e5f7 1px);
 background-size: 20px 20px; 
+
+
+
+/* Color Theme Swatches in Hex */
+'sarthi-1': '#1D18AD',
+'sarthi-2': '#FA8F55',
+'sarthi-3': '#423CFA',
+'sarthi-4': '#4AFA23',
+'sarthi-5': '#3BAD21',
+
+/* Color Theme Swatches in RGBA */
+.Sarthi-1-rgba { color: rgba(29, 24, 173, 1); }
+.Sarthi-2-rgba { color: rgba(250, 143, 85, 1); }
+.Sarthi-3-rgba { color: rgba(66, 60, 250, 1); }
+.Sarthi-4-rgba { color: rgba(74, 250, 35, 1); }
+.Sarthi-5-rgba { color: rgba(59, 173, 33, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Sarthi-1-hsla { color: hsla(242, 75, 38, 1); }
+.Sarthi-2-hsla { color: hsla(21, 94, 65, 1); }
+.Sarthi-3-hsla { color: hsla(241, 95, 60, 1); }
+.Sarthi-4-hsla { color: hsla(109, 95, 55, 1); }
+.Sarthi-5-hsla { color: hsla(108, 67, 40, 1); }
