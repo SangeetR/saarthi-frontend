@@ -10,7 +10,7 @@
     
     <div class="medical h-screen">
         <h2 class="banner">Our Medical Team</h2>
-        <Cards {data} />
+        <!-- <Cards {data} /> -->
     </div>
     
     <div class="engineering">

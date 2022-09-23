@@ -1,5 +1,5 @@
 <script>
-    export let account = true;
+    export let account = false;
 </script>
 
 
@@ -31,42 +31,4 @@
     a{
         @apply p-2 hover:bg-secondary rounded-sm;
     }
-    /* .head {
-        text-align: center;
-        font-size: x-large;
-        font-family:cursive;
-        background-color: #a4a4a4;
-        margin-top: 0px;
-    }
-        'primary': '#0a0039',
-
-    .head div{
-        text-align: right;
-        margin: 30px;
-    }
-    .nav {
-        position:sticky;
-        display: flex;
-        justify-content: space-between;
-        padding: 20px;
-        background-color: #242424;
-        margin-left: 0px;
-        margin-right: 0px;
-    }
-    .white-text{
-        color: white;
-    }
-    a {
-        border: 1px solid white;
-        padding: 10px;
-        text-decoration: none;
-        color: white;
-    }
-    .head a {
-        border: 1px solid black;
-        padding: 10px;
-        text-decoration: none;
-        color: black;
-    }  */
-
 </style>
