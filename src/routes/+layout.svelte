@@ -15,7 +15,7 @@
         <slot></slot>
     </main>
     
-    <footer class=" text-neutral-50 mb-0 py-10">
+    <footer class="bg-sarthi-7 text-sarthi-3 mb-0 py-10 px-5">
         Designed and developed by : @rathi_sangeet    
     </footer>
 </div>
